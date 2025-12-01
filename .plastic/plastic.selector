@@ -1,0 +1,4 @@
+repository "Resident/Resident@20067516263169@cloud"
+  path "/"
+    br "/main"
+    co "/main"
