@@ -1,7 +1,7 @@
 # 3D-Game-Project
 Group project for CS 530 
 
-Game: [Name]
+Name of Game: [Name]
 
 Group Members: Gabriel Sawaya, [Name], [Name], [Name]
 
@@ -14,15 +14,16 @@ Current target for game:
 
 Goals for each person:
 
+
 Gabe: Programmer (Gameplay & Systems)
 - Implement player movement, camera, and interaction
-    First person movement
 
 - Create enemy AI (patrol, chase, attack)
 
 - Implement inventory system (keys, ammo, simple UI)
 
 - Connect all gameplay elements and fix core bugs
+
 
 
 Juan: Level Designer (Environment & Triggers)
@@ -37,6 +38,7 @@ Juan: Level Designer (Environment & Triggers)
 - Set up triggers (doors, scares, music cues)
 
 
+
 person 3: Artist (3D Assets, Animations, Visual Polish)
 - Collect/create 3D assets (rooms, props, items)
 
@@ -47,6 +49,7 @@ person 3: Artist (3D Assets, Animations, Visual Polish)
 - Create UI visuals (menu, health, inventory icons)
 
 - Add VFX (blood, smoke, particles)
+
 
 
 person 4: Audio/Narrative/QA (Sound, Story, Testing)
