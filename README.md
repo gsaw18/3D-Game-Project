@@ -3,7 +3,7 @@ Group project for CS 530
 
 Name of Game: [Name]
 
-Group Members: Gabriel Sawaya, [Name], [Name], [Name]
+Group Members: Gabriel Sawaya, Rafael Aguilar, [Name], [Name]
 
 Current target for game: 
 
@@ -52,7 +52,7 @@ person 3: Artist (3D Assets, Animations, Visual Polish)
 
 
 
-person 4: Audio/Narrative/QA (Sound, Story, Testing)
+Rafael : Audio/Narrative/QA (Sound, Story, Testing)
 - Gather and implement sound effects (footsteps, doors, ambience)
 
 - Add horror audio layers (creaks, whispers, music stingers)
